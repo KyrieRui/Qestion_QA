@@ -1,3 +1,6 @@
 
 *.h5
 my_awesome_billsum_model/model.safetensors
+my_awesome_qa_model/model.safetensors
+my_awesome_qa_model/checkpoint-500/optimizer.pt
+my_awesome_qa_model/checkpoint-500/model.safetensors
